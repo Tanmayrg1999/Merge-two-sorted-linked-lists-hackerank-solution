@@ -20,11 +20,6 @@ The next
 
 lines contain an integer each, denoting the elements of the second linked list.
 
-Constraints
-
-, where is the
-
-    element of the list.
 
 Output Format
 
